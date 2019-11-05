@@ -1,0 +1,70 @@
+[19-Mar-2019 11:41:42 Asia/Tehran] 
+
+Fatal Error !
+
+Uncaught Exception : Exception
+
+Message : 'No route matched'
+
+Stack trace : #0 C:\xampp\htdocs\mvcproject\public\index.php(12): Core\Router->dispatch('test-propel/tes...')
+#1 {main}
+
+Thrown in 'C:\xampp\htdocs\mvcproject\Core\Router.php' on line 78
+
+
+[19-Mar-2019 11:41:43 Asia/Tehran] 
+
+Fatal Error !
+
+Uncaught Exception : Exception
+
+Message : 'No route matched'
+
+Stack trace : #0 C:\xampp\htdocs\mvcproject\public\index.php(12): Core\Router->dispatch('favicon.ico')
+#1 {main}
+
+Thrown in 'C:\xampp\htdocs\mvcproject\Core\Router.php' on line 78
+
+
+[19-Mar-2019 11:41:51 Asia/Tehran] 
+
+Fatal Error !
+
+Uncaught Exception : Exception
+
+Message : 'No route matched'
+
+Stack trace : #0 C:\xampp\htdocs\mvcproject\public\index.php(12): Core\Router->dispatch('test-propel/tes...')
+#1 {main}
+
+Thrown in 'C:\xampp\htdocs\mvcproject\Core\Router.php' on line 78
+
+
+[19-Mar-2019 11:42:19 Asia/Tehran] 
+
+Fatal Error !
+
+Uncaught Exception : Exception
+
+Message : 'No route matched'
+
+Stack trace : #0 C:\xampp\htdocs\mvcproject\public\index.php(12): Core\Router->dispatch('test-propel/tes...')
+#1 {main}
+
+Thrown in 'C:\xampp\htdocs\mvcproject\Core\Router.php' on line 78
+
+
+[19-Mar-2019 11:42:24 Asia/Tehran] 
+
+Fatal Error !
+
+Uncaught Exception : Exception
+
+Message : 'No route matched'
+
+Stack trace : #0 C:\xampp\htdocs\mvcproject\public\index.php(12): Core\Router->dispatch('test-propel/tes...')
+#1 {main}
+
+Thrown in 'C:\xampp\htdocs\mvcproject\Core\Router.php' on line 78
+
+
